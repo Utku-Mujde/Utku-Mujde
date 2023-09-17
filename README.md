@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, Nice to meet you!
+I'm Utku Müjde, a freshman in the CS Department at Bilkent Universty.
 
 <!--
 **Utku-Mujde/Utku-Mujde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
